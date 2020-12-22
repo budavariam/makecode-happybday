@@ -22,7 +22,7 @@ basic.forever(function () {
             . # # # .
             . # # # .
             `)
-        basic.pause(randint(0, 300))
+        basic.pause(randint(100, 300))
         basic.showLeds(`
             . . . # .
             . . . . .
