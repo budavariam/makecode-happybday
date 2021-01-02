@@ -25,6 +25,10 @@ This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/budavariam/makecode-happybday/raw/master/.github/makecode/blocks.png)
 
+Circuit diagram made with [tinkerCAD](https://www.tinkercad.com/).
+
+![Circuit diagram](./circuit.png)
+
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
